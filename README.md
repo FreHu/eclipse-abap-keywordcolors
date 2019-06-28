@@ -6,6 +6,7 @@ Feel free to clone and edit these if you want to make your own! Note: This is no
 ## Screenshots:
 
 Light version:
+
 ![ABAPDevelopmentTools_w2fPs1iSkc](https://user-images.githubusercontent.com/5097067/60347073-d2bcca00-99bc-11e9-8f2f-ddbe9310b9b4.png)
 ![ABAPDevelopmentTools_Hpme2NlZnj](https://user-images.githubusercontent.com/5097067/60347071-d18b9d00-99bc-11e9-85b0-71b241aaa9cb.png)
 
