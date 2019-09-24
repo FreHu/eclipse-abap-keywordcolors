@@ -17,3 +17,8 @@ Dark version (with the Darkest Dark theme):
 
 ![eclipse_TeYQ8y4LNA](https://user-images.githubusercontent.com/5097067/60347058-cb95bc00-99bc-11e9-8cf8-585cc0b269c0.png)
 ![eclipse_ppc3sQ9lB8](https://user-images.githubusercontent.com/5097067/60347042-c8023500-99bc-11e9-9dad-6a279c369088.png)
+
+## Installation
+
+Import one of the xml files in the preferences:
+![ABAPDevelopmentTools_VyEoKkmHMc](https://user-images.githubusercontent.com/5097067/65505365-50fc1000-dec9-11e9-90e3-d4c808e47614.png)
